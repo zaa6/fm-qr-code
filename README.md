@@ -1,6 +1,6 @@
-# ENTER FRONTED MENTOR CHALLENGE NAME
+# QR CODE COMPONENT
 
-This is my solution to the [Enter Challage Name on Frontend Mentor](https://www.frontendmentor.io/challenges/). 
+This is my solution to the [QR Code Component on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -15,7 +15,6 @@ This is my solution to the [Enter Challage Name on Frontend Mentor](https://www.
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
