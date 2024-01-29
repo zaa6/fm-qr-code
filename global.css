@@ -1,0 +1,50 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#content-area {
+    background-color: rgba(214,225,239,1);
+    height: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    max-width: 260px;
+    background-color: rgba(255,255,255,1);
+    border-radius: 13px;
+    padding: 13px;
+}
+
+.card__section--media {
+    background-color: rgba(44,125,246,1);
+    padding: 38px;
+    border-radius: 7px;
+}
+
+.card__section--media img {
+    display: block;
+    width: 100%;
+}
+
+.card__section--description {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.card__section--description h1 { 
+    color: rgba(0,0,0,1);
+    font-size: 16px; 
+}
+
+.card__section--description p { 
+    color: rgba(168,172,182,1);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.2;
+}
